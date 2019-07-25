@@ -1,0 +1,8 @@
+# Disable grammar checking
+build/*.js
+src/assets
+public
+dist
+src/utils
+src/store
+node_modules
